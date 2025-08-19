@@ -29,9 +29,9 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ankitmanojg&show_icons=true&theme=radical)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=ankitmanojg&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitmanojg&layout=compact&theme=radical)  
+![](https://github-readme-stats.vercel.app/api?username=ankit70g&show_icons=true&theme=radical)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=ankit70g&theme=radical)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit70g&layout=compact&theme=radical)  
 
 ---
 
