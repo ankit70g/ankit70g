@@ -34,11 +34,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit70g&layout=compact&theme=radical)  
 
 ---
-
 # 🚀 Featured Projects:
-- [📧 Email Spam Detection with Streamlit](#)  
-- [🗣️ Fluent – AI-Powered Language Learning App](#)  
-- [🧩 AutoML Designer – Visual AI Model Builder](#)  
+- [🌟 Aura](https://github.com/ankit70g/aura)  
+- [📧 Email Spam Detection](https://github.com/ankit70g/Email-Spam-Detection)  
+- [💊 HealthCard](https://github.com/ankit70g/HealthCard)  
 
 ---
 
