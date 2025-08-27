@@ -18,7 +18,8 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F61?logo=tensorflow&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)  
